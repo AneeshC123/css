@@ -6,9 +6,11 @@
 }
 body{
     display: flex;
-   position: fixed;
     background-image: url(background1.webp);
     background-size: cover;
+    background-position: center;
+    height: 100vh;
+
 }
 
 
